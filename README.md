@@ -26,7 +26,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
+# My study projects 🔭
 
+| Name | Tools |
+| :--------: | :-------: |
+|[Toxic Comment Recognition](https://github.com/masha-ds/yp-projects/tree/main/toxic_comment_recognition) |nltk, tqdm, TfidfVectorizer, LogisticRegression, ComplementNB, LGBMClassifier|
+|[Customer Age Estimation](https://github.com/masha-ds/yp-projects/tree/main/cv_customer_age_recognition) |keras, CV|
+|[Optimizing Oil Well Drilling: Profit and Risk Analysis Using Machine Learning](https://github.com/masha-ds/yp-projects/tree/main/best_location_for_drilling) |Bootstrap, Pipeline, ColumnTransformer, LinearRegression, Lasso, Ridge, Scalers, GridSearchCV, RandomizedSearchCV|
+|[Taxi Orders Forecasting](https://github.com/masha-ds/yp-projects/tree/main/time_series_taxi_ordering) |decompose, LGBMRegressor, CatBoostRegressor, LinearRegression, ElasticNet, FunctionTransformer|
+|[Predicting Employee Satisfaction and Attrition](https://github.com/masha-ds/yp-projects/tree/main/hr-project) |Pipeline, ColumnTransformer, Encoders, Scalers, GridSearchCV, RandomizedSearchCV, LinearRegression, LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, DecisionTreeRegressor, SVC|
+|[Optimizing Steel Production: Temperature Prediction and Process Stability Enhancement](https://github.com/masha-ds/yp-projects/tree/main/steel_prod_temp_prediction) |GridSearchCV, PolynomialFeatures, LinearRegression, Lasso, Ridge, ElasticNet, CatBoostRegressor, LGBMRegressor, RandomForestRegressor, SHAP|
+
+I plan to regularly update the list, so stay tuned for more ✨
 <!--
 **masha-ds/masha-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
