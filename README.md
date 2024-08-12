@@ -36,6 +36,7 @@
 |[Taxi Orders Forecasting](https://github.com/masha-ds/yp-projects/tree/main/time_series_taxi_ordering) |decompose, LGBMRegressor, CatBoostRegressor, LinearRegression, ElasticNet, FunctionTransformer|
 |[Predicting Employee Satisfaction and Attrition](https://github.com/masha-ds/yp-projects/tree/main/hr-project) |Pipeline, ColumnTransformer, Encoders, Scalers, GridSearchCV, RandomizedSearchCV, LinearRegression, LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, DecisionTreeRegressor, SVC|
 |[Optimizing Steel Production: Temperature Prediction and Process Stability Enhancement](https://github.com/masha-ds/yp-projects/tree/main/steel_prod_temp_prediction) |GridSearchCV, PolynomialFeatures, LinearRegression, Lasso, Ridge, ElasticNet, CatBoostRegressor, LGBMRegressor, RandomForestRegressor, SHAP|
+|[Car Price Prediction](https://github.com/masha-ds/yp-projects/tree/main/car_price_prediction) |ColumnTransformer, sklearn, LGBMRegressor, CatBoostRegressor, SHAP|
 
 I plan to regularly update the list, so stay tuned for more ✨
 <!--
